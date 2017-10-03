@@ -13,7 +13,7 @@ Realm of the Mad God AS3 client based on version 27.7.X2. This was decompiled us
 - [x] Force crossdomain;
 - [x] Metadata tag support;
 - [ ] Flash Vars;
-- [ ] Client side domain validator;
+- [x] Client side domain validator;
 - [ ] Domain locker;
 - [ ] Source code obfuscation;
 - [x] Encrypted protocols between server connections (possible inject to block hackers);
@@ -22,7 +22,7 @@ Realm of the Mad God AS3 client based on version 27.7.X2. This was decompiled us
 
 ## Requirements
 - IntelliJ IDEA or similar Flash IDE;
-- Flex SDK 4.9.1, Air SDK 15 (check snippers to download Flex SDK).
+- Flex SDK 4.9.1, Air SDK 15.
 
 ## LoESoft (Main Developers)
 - GhostMaree;
